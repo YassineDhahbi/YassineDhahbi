@@ -6,7 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinedhahbi&label=Profile%20views&color=0e75b6&style=flat" alt="yassinedhahbi" /> </p>
 
+- 🔭 I’m currently working on improving my portfolio through full-stack projects and exploring AI-powered web applications.
 - 📫 How to reach me **yassinedhahbi01@gmail.com**
+- 👯 I’m looking to collaborate on impactful web applications and intelligent systems that solve real-world problems.
+- 🤝 I’m looking for help with collaborating on impactful projects that combine web development and artificial intelligence.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
